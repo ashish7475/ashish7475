@@ -1,4 +1,4 @@
-[![Social banner for ashish7475]([https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://miro.medium.com/v2/resize:fit:1100/1*KlNlGjWBb0mScNgnX9Uxjw.gif)](https://ashish7475.github.io/Portfolio-Website--HTML-CSS-Javascript-/)
+![Social banner for ashish7475](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif)
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
