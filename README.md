@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashish729912@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13CDLkc2JmV7J7O4-GlrJtz3UFsHMZu-_/view](https://drive.google.com/file/d/13CDLkc2JmV7J7O4-GlrJtz3UFsHMZu-_/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZlPeP7RBqK9NXEaZfgbaPa4_4XSE4LpN/view?usp=sharing)
 
 - ⚡ Fun fact **I like gaming !**
 
